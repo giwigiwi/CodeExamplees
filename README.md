@@ -1,6 +1,6 @@
 # CodeExamples
 
-## There are some code examples from my projects
+## There are some code examples from my projects.
 Every project has little description about technologies thas used to.
 
 ## Project list
@@ -18,7 +18,7 @@ In project used event-oriented model:
 * Scriptable objects
 
 ## Project_2
-### My first project using Zenject/Extenject
+### My first project using Zenject/Extenject.
 In project used:
 * Zenject/Extenject
 * Lean Transition
