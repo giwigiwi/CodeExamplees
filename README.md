@@ -23,6 +23,7 @@ In project used:
 * Zenject/Extenject
 * Lean Transition
 * Dreamteck Spline
+* Linq
 * Animator/Animations
 * Particle systems
 * Scriptable objects
