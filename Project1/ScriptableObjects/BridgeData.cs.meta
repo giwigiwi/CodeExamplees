@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec9f175a7bb74814da4aebc2b2d9fc3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defMaterial: {instanceID: 0}
+  - blankMaterial: {instanceID: 0}
+  - partPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
